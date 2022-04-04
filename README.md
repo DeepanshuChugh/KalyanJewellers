@@ -15,7 +15,7 @@ This project was built by us during the contruct week of unit 2 in Masai School.
 
 - [Sudeep Haldar](https://github.com/Hsudeep)
 
-- [Michael George](https://github.com/Micheal-George)
+- [Micheal George](https://github.com/Micheal-George)
 
 - [Avnish Kumar](https://github.com/Ashukla011)
 
@@ -53,15 +53,17 @@ on the total amount.
 
 - GitHub is Managed by Deepanshu while the Readme.md was done by Sudeep.
 
-- The navbar is designed, functionality done by Michael and Sudeep.
+- The navbar is designed, functionality done by Micheal and Sudeep.
 
-- The Landing Page is designed & functioned by Michael.
+- The Landing Page is designed & functioned by Micheal.
 
 - The sign-up and sign-in page with their functionality was designed by Avnish. 
  
 - All products page and sorting data is designed Ayush.
 
-- Payment Page and Checkout page is designed by Sakshi.
+- Cart page is designed by Deepanshu & functioned by Micheal
+
+- Checkout page is designed by Sakshi.
 
 ## Learning
 - We all learnt to build website together as team and also we cleared bugs and became more proficient in Handling data,
