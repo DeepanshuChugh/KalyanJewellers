@@ -61,9 +61,9 @@ on the total amount.
  
 - All products page and sorting data is designed Ayush.
 
-- Cart page is designed by Deepanshu & functioned by Micheal
+- Cart/Checkout page is designed by Deepanshu & functioned by Micheal
 
-- Checkout page is designed by Sakshi.
+- Payment page is designed by Sakshi.
 
 ## Learning
 - We all learnt to build website together as team and also we cleared bugs and became more proficient in Handling data,
